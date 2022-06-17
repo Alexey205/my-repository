@@ -2,6 +2,7 @@
 ## my name is Alex
 
 **this text will be bold**
+
 *this text will be italic*
 
 List:
