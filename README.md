@@ -18,4 +18,4 @@ let str = 'this is js code';
 
 [this is link](https://github.com)
 
-![this is img]((https://www.pngplay.com/wp-content/uploads/8/Ukraine-Flag-Free-PNG.png)
+![this is img](https://www.pngplay.com/wp-content/uploads/8/Ukraine-Flag-Free-PNG.png)
